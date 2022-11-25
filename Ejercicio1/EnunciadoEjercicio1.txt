@@ -1,0 +1,5 @@
+Ejercicio 1: Prueba exploratoria y reporte de bugs
+
+La primera tarea es encontrar un bug, nos da igual en que web de internet lo encuentres, lo importante es poder encontrarlo y reportarlo. No te preocupes porque internet está lleno de ellos.
+
+Haz el reporte al nivel de detalle que consideres necesario para que el equipo de desarrollo pueda encontrarlo, debuggearlo y solucionarlo. Proporciona evidencias del fallo y resultado esperado. Clasifícalo en cuanto a prioridad, impacto y probabilidad de ocurrencia.
